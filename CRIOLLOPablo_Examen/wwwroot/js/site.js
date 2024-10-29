@@ -4,3 +4,8 @@
 
 
 // Write your JavaScript code.
+
+
+document.getElementById("BotonInfo").addEventListener("click", function () {
+    alert("Me llamo Pablo Criollo y mi hobbie es las apuestas deportivas ");
+});
